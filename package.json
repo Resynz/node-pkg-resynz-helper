@@ -1,0 +1,19 @@
+{
+  "name": "resynz-helper",
+  "version": "0.0.1",
+  "description": "封装些常用的node方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Resynz/node-pkg-resynz-helper.git"
+  },
+  "author": "Resynz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Resynz/node-pkg-resynz-helper/issues"
+  },
+  "homepage": "https://github.com/Resynz/node-pkg-resynz-helper#readme"
+}
